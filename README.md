@@ -15,25 +15,25 @@ In this project, a simple web portfolio was built to serve as an online business
 
 ### Executing program
 
-*HTML code that is semantic and valid
+*** HTML code that is semantic and valid
 
-*CSS code 
+*** CSS code 
 
-*Content that is clear and readable
+*** Content that is clear and readable
 
-*An Intro section that contains the following information:
+*** An Intro section that contains the following information:
 
 -Introduction
 
 -Location
 
-*An About Me section:
+*** An About Me section:
 
 -A description that showing passion for web development and illingness to work with others
 
 -Other interests
 
-*A Contact section:
+*** A Contact section:
 
 -A link to your LinkedIn profile
 
