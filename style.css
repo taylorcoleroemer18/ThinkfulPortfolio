@@ -1,0 +1,104 @@
+
+/* 
+	STYLE.CSS:
+*/
+
+
+/* -------  General ------- */
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+header {
+	height: 140px;
+	background-image:url(images/backgrounds/lightgreen-gradient-background.webp);
+  margin-bottom: 10px;
+}
+
+
+.logo {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 70px;
+  color: #f2b059;
+  text-align: center;
+  letter-spacing: -3;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+header h2 {
+	font-family: 'Montserrat', serif;
+	color: #6b4d00;
+	margin: 0px;
+	font-size: 20px;
+	text-align: center;
+}
+
+footer {
+	background-image:url(images/backgrounds/lightgreen-gradient-background.webp);
+
+}
+
+section {
+	padding: 0 25%;
+  margin: 0;
+}
+
+/* -------  Text ------- */
+
+h2, h3 {
+  font-family: 'Montserrat Alternates', sans-serif;
+	color: #6b4d00;
+  text-align: center;
+  font-weight: 500;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 26px; }
+h3 { font-size: 18px; }
+
+p, li {
+ font-family: 'Montserrat', sans-serif;
+ line-height: 1.5em;
+ margin-bottom: 0;
+}
+
+a {
+	font-weight: 700;
+	text-decoration: none;	
+}
+a:link { color: #f2b059; }
+a:visited { color: #f2b059; }
+a:hover { 
+  color: #403933; 
+  text-decoration: underline;
+}
+a:active { color: #403933; }
+
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+footer p {
+	color: #6b4d00;	
+	text-align: center;
+  padding: 30px;
+  margin: 0;
+}
+
+/* elements */
+
+img { 
+  width: 100%;	
+  border-radius: 10px;
+  border: 1px solid #403933;
+} 
+
+/* styling */
+
+.border-top {
+  padding-top: 40px;
+  border-top: 2px solid #403933;
+}
