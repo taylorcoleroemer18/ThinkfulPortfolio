@@ -20,7 +20,7 @@ header {
 .logo {
   font-family: 'Nanum Pen Script', cursive;
   font-size: 70px;
-  color: #f2b059;
+  color: #422605;
   text-align: center;
   letter-spacing: -3;
   margin: 0;
@@ -68,8 +68,8 @@ a {
 	font-weight: 700;
 	text-decoration: none;	
 }
-a:link { color: #f2b059; }
-a:visited { color: #f2b059; }
+a:link { color: #422605; }
+a:visited { color: #422605; }
 a:hover { 
   color: #403933; 
   text-decoration: underline;
